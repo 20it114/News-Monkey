@@ -27,7 +27,7 @@ export class News extends Component {
       loading: false,
     });
   }
-
+{}
   handleNextClick = async () => {
     console.log("Next");
 
